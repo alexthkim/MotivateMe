@@ -4,3 +4,5 @@ Users will find tasks that interest them and compete with others globally to rea
 
 We aim to continue improving upon this project with Paypal and Facebook integration as well as additional features on 
 the user's dashboard.
+
+![alt text](https://github.com/alexthkim/MotivateMe/blob/master/motivate-me-screenshot.png)
